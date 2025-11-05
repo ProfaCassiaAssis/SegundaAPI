@@ -8,11 +8,11 @@
 		<version>3.5.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.segundaAPI</groupId>
-	<artifactId>minhaSegundaAPI</artifactId>
+	<groupId>com.FrontCadastrodeProdutos</groupId>
+	<artifactId>CadastrodeProdutos</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>minhaSegundaAPI</name>
-	<description>project  Spring Boot minhaSegundaAPI </description>
+	<name>CadastrodeProdutos</name>
+	<description>project  Spring Boot CadastrodeProdutos </description>
 	<url/>
 	<licenses>
 		<license/>
